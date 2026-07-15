@@ -2,11 +2,11 @@
 
 # Siddhartha Jain
 
-### AI/ML Analyst • Data Analyst • Financial Data Analyst
+### AI/ML Analyst • Data Analyst
 
-**Building reusable analytical systems through Machine Learning, Natural Language Processing, SQL, and Google BigQuery.**
+**Building reusable analytical systems through Machine Learning, Natural Language Processing, and modern data analytics.**
 
-[LinkedIn](https://www.linkedin.com/in/siddhartha-jain-52827b100/) • Email: siddharthajain956@gmail.com
+[LinkedIn Profile](https://www.linkedin.com/in/siddhartha-jain-52827b100/) • 📧 siddharthajain956@gmail.com
 
 ---
 
@@ -28,6 +28,18 @@ Every project in this portfolio contributes one stage toward answering this ques
 
 ---
 
+# Portfolio at a Glance
+
+| | |
+|:--|:--|
+| 📂 **Connected Projects** | 4 |
+| 📖 **Learning Journey** | 40 Weeks |
+| 📑 **Technical Reports** | 12+ |
+| 🧠 **Core Areas** | Machine Learning • NLP • Reusable Systems |
+| 🎯 **Primary Focus** | Explainability • Reliability • Reusability |
+
+---
+
 # Connected Analytical Journey
 
 ```text
@@ -46,16 +58,18 @@ Reusable Analytical Systems
 Analytical Framework Validation
 ```
 
+Each project builds upon the previous one to form a connected analytical framework rather than a collection of isolated studies.
+
 ---
 
 # Featured Projects
 
-| Project | Focus |
-|---------|-------|
+| Project | Primary Focus |
+|---------|---------------|
 | 📊 **Machine Learning for Financial Market Analysis** | Predictive modelling, model evaluation, business interpretation |
-| 📖 **Natural Language Processing for Financial Text Analytics** | Sentiment analysis, entity recognition, theme analysis |
-| ⚙️ **Reusable Analytical Systems Design** | Standardized workflows, reusable analytical pipelines |
-| ✅ **Analytical Framework Validation** | Stability, continuity, long-term framework reliability |
+| 📖 **Natural Language Processing for Financial Text Analytics** | Sentiment analysis, entity recognition, thematic analysis |
+| ⚙️ **Reusable Analytical Systems Design** | Workflow standardization, reusable analytical pipelines |
+| ✅ **Analytical Framework Validation** | Stability assessment, continuity testing, framework reliability |
 
 ---
 
@@ -66,21 +80,17 @@ Analytical Framework Validation
 | **Data Analytics** | SQL • Google BigQuery • Excel • Power BI |
 | **Machine Learning** | BigQuery ML • Regression • Classification • Model Evaluation |
 | **Natural Language Processing** | Python • spaCy • VADER • Sentiment Analysis • Entity Recognition |
-| **Business Analytics** | Financial Analysis • Business Analysis • Decision Support |
+| **Business & Financial Analytics** | Financial Analysis • Business Analysis • Decision Support |
 
 ---
 
 # Portfolio Highlights
 
-✔ Designed a **four-project connected analytical framework**
-
-✔ Developed reusable Machine Learning and NLP workflows
-
-✔ Built standardized analytical pipelines
-
-✔ Validated analytical stability using newly introduced financial data
-
-✔ Focused on explainability, reliability, and long-term analytical reuse
+- ✔ Designed a four-project connected analytical framework.
+- ✔ Developed reusable Machine Learning and NLP workflows.
+- ✔ Built standardized analytical pipelines.
+- ✔ Validated analytical stability using newly introduced financial data.
+- ✔ Focused on explainability, reliability, and long-term analytical reuse.
 
 ---
 
@@ -90,25 +100,19 @@ Every repository follows a standardized structure.
 
 ```text
 Overview
-
-Business Question
-
-Methodology
-
-Dataset
-
-Implementation
-
-Results
-
-Key Findings
-
-Project Report
-
-Working Analysis
-
-Supporting Resources
+│
+├── Business Question
+├── Methodology
+├── Dataset
+├── Implementation
+├── Results
+├── Key Findings
+├── Project Report
+├── Working Analysis
+└── Supporting Resources
 ```
+
+This consistent structure enables every repository to be understood independently while contributing to the broader analytical framework.
 
 ---
 
@@ -118,22 +122,22 @@ Supporting Resources
 
 ---
 
-# Portfolio Navigation
+# Portfolio Ecosystem
 
-```
-LinkedIn
+```text
+GitHub Profile
       │
       ▼
-AI & Data Analytics Portfolio
+Featured Repositories
+      │
+      ▼
+Project Reports
       │
       ▼
 Overall Project Findings
       │
       ▼
-GitHub Repositories
-      │
-      ▼
-Technical Reports
+LinkedIn Profile
 ```
 
 ---
@@ -142,11 +146,11 @@ Technical Reports
 
 📧 **Email**
 
-siddharthajain956@gmail.com
+**siddharthajain956@gmail.com**
 
 💼 **LinkedIn**
 
-https://www.linkedin.com/in/siddhartha-jain-52827b100/
+**https://www.linkedin.com/in/siddhartha-jain-52827b100/**
 
 ---
 
@@ -157,17 +161,3 @@ https://www.linkedin.com/in/siddhartha-jain-52827b100/
 *Exploring how analytical systems can become more reusable, reliable, and explainable.*
 
 </div>
-<!--
-**Siddhartha-Jain-Portfolio/Siddhartha-Jain-Portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
