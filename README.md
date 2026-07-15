@@ -1,50 +1,162 @@
+<div align="center">
+
 # Siddhartha Jain
 
-### AI/ML Analyst • Data Analytics • Financial Analytics
+### AI/ML Analyst • Data Analyst • Financial Data Analyst
 
-Building reusable analytical systems that combine Machine Learning, Natural Language Processing, and modern data engineering to transform business questions into scalable decision-support frameworks.
+**Building reusable analytical systems through Machine Learning, Natural Language Processing, SQL, and Google BigQuery.**
 
----
-
-## About Me
-
-I am an AI/ML Analyst with an interdisciplinary background in Computer Science and Finance.
-
-My work focuses on transforming business problems into structured analytical systems using Machine Learning, Natural Language Processing, SQL, and Google BigQuery.
-
-Rather than treating projects as isolated experiments, I design connected analytical workflows that remain reusable, explainable, and reliable as new data becomes available.
-
-My portfolio demonstrates a progression from predictive modelling to reusable analytical system design and long-term framework validation.
+[LinkedIn](https://www.linkedin.com/in/siddhartha-jain-52827b100/) • Email: siddharthajain956@gmail.com
 
 ---
 
-## Research Mission
+</div>
 
-The objective of this portfolio is to answer one central question:
+# Professional Overview
 
-> **Can Machine Learning, Natural Language Processing, and modern data engineering be combined into a reusable analytical framework that continues to deliver reliable insights as financial data grows over time?**
+I am an AI/ML Analyst with an interdisciplinary foundation in **Computer Science** and **Finance**, focused on designing analytical solutions that extend beyond predictive modelling into reusable, explainable, and scalable analytical systems.
 
-Every repository contributes one stage toward answering this question.
+Rather than treating projects as isolated technical exercises, my work follows a connected analytical journey where each project answers a new business question while building upon the previous one.
 
 ---
 
+# Research Mission
+
+> **Can Machine Learning, Natural Language Processing, and modern analytical systems be combined into a reusable framework that continues to deliver reliable insights as financial data evolves?**
+
+Every project in this portfolio contributes one stage toward answering this question.
+
+---
+
+# Connected Analytical Journey
+
+```text
+Financial Market Analysis
+            │
+            ▼
 Machine Learning
-        │
-        ▼
+            │
+            ▼
 Natural Language Processing
-        │
-        ▼
+            │
+            ▼
 Reusable Analytical Systems
-        │
-        ▼
-Framework Validation
+            │
+            ▼
+Analytical Framework Validation
+```
 
 ---
 
-Each project builds upon the previous one.
+# Featured Projects
 
-Instead of treating Machine Learning, NLP, reusable pipelines, and validation as independent studies, they form one connected analytical framework designed for long-term scalability and reliability.
+| Project | Focus |
+|---------|-------|
+| 📊 **Machine Learning for Financial Market Analysis** | Predictive modelling, model evaluation, business interpretation |
+| 📖 **Natural Language Processing for Financial Text Analytics** | Sentiment analysis, entity recognition, theme analysis |
+| ⚙️ **Reusable Analytical Systems Design** | Standardized workflows, reusable analytical pipelines |
+| ✅ **Analytical Framework Validation** | Stability, continuity, long-term framework reliability |
 
+---
+
+# Technical Expertise
+
+| Domain | Technologies |
+|---------|--------------|
+| **Data Analytics** | SQL • Google BigQuery • Excel • Power BI |
+| **Machine Learning** | BigQuery ML • Regression • Classification • Model Evaluation |
+| **Natural Language Processing** | Python • spaCy • VADER • Sentiment Analysis • Entity Recognition |
+| **Business Analytics** | Financial Analysis • Business Analysis • Decision Support |
+
+---
+
+# Portfolio Highlights
+
+✔ Designed a **four-project connected analytical framework**
+
+✔ Developed reusable Machine Learning and NLP workflows
+
+✔ Built standardized analytical pipelines
+
+✔ Validated analytical stability using newly introduced financial data
+
+✔ Focused on explainability, reliability, and long-term analytical reuse
+
+---
+
+# Repository Structure
+
+Every repository follows a standardized structure.
+
+```text
+Overview
+
+Business Question
+
+Methodology
+
+Dataset
+
+Implementation
+
+Results
+
+Key Findings
+
+Project Report
+
+Working Analysis
+
+Supporting Resources
+```
+
+---
+
+# Professional Philosophy
+
+> *Technology evolves rapidly, but structured thinking, business understanding, and analytical problem solving remain timeless.*
+
+---
+
+# Portfolio Navigation
+
+```
+LinkedIn
+      │
+      ▼
+AI & Data Analytics Portfolio
+      │
+      ▼
+Overall Project Findings
+      │
+      ▼
+GitHub Repositories
+      │
+      ▼
+Technical Reports
+```
+
+---
+
+# Connect
+
+📧 **Email**
+
+siddharthajain956@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/siddhartha-jain-52827b100/
+
+---
+
+<div align="center">
+
+### Thank you for visiting my portfolio.
+
+*Exploring how analytical systems can become more reusable, reliable, and explainable.*
+
+</div>
 <!--
 **Siddhartha-Jain-Portfolio/Siddhartha-Jain-Portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
