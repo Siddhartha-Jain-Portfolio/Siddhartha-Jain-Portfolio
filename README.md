@@ -33,7 +33,6 @@ Every project in this portfolio contributes one stage toward answering this ques
 | | |
 |:--|:--|
 | 📂 **Connected Projects** | 4 |
-| 📖 **Learning Journey** | 40 Weeks |
 | 📑 **Technical Reports** | 12+ |
 | 🧠 **Core Areas** | Machine Learning • NLP • Reusable Systems |
 | 🎯 **Primary Focus** | Explainability • Reliability • Reusability |
